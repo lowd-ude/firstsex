@@ -10,4 +10,6 @@ My favorite phrase:
 > Danir you are genius  
 ## If you want me, go to my telegram!  
 
-<a><img width="150px" height="150px" onClick="(e)=>e.preventDefault()" src="assets\Telegram.svg.webp"/></a>
+[HUI](https://skillbox.ru/media/)
+
+<a><img width="150px" height="150px" src="assets\Telegram.svg.webp"/></a>
