@@ -9,6 +9,5 @@ Top three important thing in my life:
 My favorite phrase:
 > Danir you are genius  
 ## If you want me, go to my telegram!  
-```html
-<a><img src="assets\Telegram.svg.webp"/></a>
-```
+
+<a><img width="20px" height="20px" src="assets\Telegram.svg.webp"/></a>
